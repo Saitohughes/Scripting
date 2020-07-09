@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\SimuladorGana\SimuladorGana\bin\Debug\SimuladorGana.exe.config
+C:\Users\Administrador\source\repos\SimuladorGana\SimuladorGana\bin\Debug\SimuladorGana.exe
+C:\Users\Administrador\source\repos\SimuladorGana\SimuladorGana\bin\Debug\SimuladorGana.pdb
+C:\Users\Administrador\source\repos\SimuladorGana\SimuladorGana\obj\Debug\SimuladorGana.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\SimuladorGana\SimuladorGana\obj\Debug\SimuladorGana.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\SimuladorGana\SimuladorGana\obj\Debug\SimuladorGana.exe
+C:\Users\Administrador\source\repos\SimuladorGana\SimuladorGana\obj\Debug\SimuladorGana.pdb
